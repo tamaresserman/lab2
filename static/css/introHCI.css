@@ -8,6 +8,25 @@
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */	
 	color: #CC00AA;
 }
+.project {
+     background-color: gray;
+     margin-left: 10px;
+
+}
+img .thumbnail {
+     width: 50px;
+     height: 100px;
+     border: 1px solid #434343;
+}
+
+.contract-infro {
+     font-size: 10pt;
+     color: #cccccc;
+}
+.project {
+     background-color: gray;
+     margin-left: 10px;
+}
 
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
